@@ -22,7 +22,7 @@ I am very comfortable with:
 - Discord: x2110311x#2110
 - Website: https://www.alexsweeney.tech
 
-### Support me
+## Support me
 Support my development efforts or thank me by buying me a cup of coffee or sponsoring me.
 - [GitHub Sponsor](https://github.com/sponsors/x2110311x)
 - [Patreon](https://patreon.com/x2110311x)
