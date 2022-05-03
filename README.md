@@ -1,7 +1,7 @@
 # Hi There!
 I'm Alex Sweeney.
 
-I am a tech enthusiast, student developer, and IT Professional from Ohio.
+I am a tech enthusiast, Kent State Computer Science Graduate, and IT Professional from Ohio.
 
 I am heavily involved in several music artist oriented communities in which I write custom Discord bots for.
 All of my work is fully available for use, modification and education purposes.
