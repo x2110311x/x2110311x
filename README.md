@@ -9,7 +9,7 @@ All of my work is fully available for use, modification and education purposes.
 If you appreciate my work, buying me a cup of coffee is appreciated!
 
 ## Languages
-I primarily write in Python, however, I have experience in C++, PowerShell, and Kotlin.
+I primarily write in Python, however, I have experience in Javascript, C++, PowerShell, and Kotlin.
 
 ## Areas of expertise
 I am very comfortable with:
