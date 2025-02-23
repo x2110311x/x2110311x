@@ -11,16 +11,6 @@ If you appreciate my work, buying me a cup of coffee is appreciated!
 ## Languages
 I primarily write in Python, however, I have experience in Javascript, C++, PowerShell, and Kotlin.
 
-## Areas of expertise
-I am very comfortable with:
-- Windows System Management
-- Linux
-- SQL Databases
-- Many others
-
-## Contact
-- Discord: x2110311x#2110
-- Website: https://www.alexsweeney.tech
 
 ## Support me
 Support my development efforts or thank me by buying me a cup of coffee or sponsoring me.
